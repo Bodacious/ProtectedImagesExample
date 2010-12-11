@@ -2,7 +2,7 @@
 
 ## UserImage
 
-The main model at work here is UserImage.  This model as a paperclip attachment; the image file which we want to protect.
+The main model at work here is UserImage.  This model has a paperclip attachment; the image file which we want to protect.
 
 Using the usual Rails scaffold you can CRUD user images as you please.
 
