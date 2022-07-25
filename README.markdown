@@ -34,6 +34,3 @@ This controller deals with sending the image. The first thing you should notice 
 
 ## send_file
 In the images controller we can then use [send_file](http://api.rubyonrails.org/classes/ActionController/Streaming.html#method-i-send_file) to send the file inline.
-
-Any questions, please feel free to ask:
-gavin@[gavinmorrice.com](http://gavinmorrice.com/)
